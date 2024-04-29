@@ -3,7 +3,9 @@
 These are projects that we handle every year with few exceptions.
 
 ## State of the University (SOTU)
-| --- | --- | --- |
+
+| | | 
+| --- | --- |
 | **Timeframe** | Late October to January (Annual) |
 | **Website** | https://sotu.uga.edu/ |
 | **Platform** | Omni CMS (transition to WordPress pending) |
@@ -13,8 +15,6 @@ These are projects that we handle every year with few exceptions.
 ### Recommended Actions
 ### Other Notes, Tips, or Resources
 
-### President's Annual Report (PAR)
-
-### Commencement
-
-### Elevate
+## President's Annual Report (PAR)
+## Commencement
+## Elevate
