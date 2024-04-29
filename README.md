@@ -7,3 +7,6 @@ description: >-
 
 # UGA MARCOMM Webdev Team Knowledgebase Home
 
+### Getting Started at MARCOMM
+
+* [Annual Recurring Projects](annual-recurring-projects.md)
