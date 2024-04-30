@@ -48,12 +48,26 @@ Hosts legal and instructional information from the IAD (Internal Auditing Divisi
 
 ****
 
+### Brand
+
+Branding standards and assets for the University
+
+* **URL:** [https://brand.uga.edu](https://brand.uga.edu)
+* **Hosted on:** [Pantheon](https://dashboard.pantheon.io/sites/5731c554-df99-4669-a19b-5d0aabedd384#dev/code)
+* **We host:** Yes
+* **We support:** Yes
+* **Monthly Updates:** Yes
+* **GIT Repositories:**
+  * Pantheon: `ssh://codeserver.dev.5731c554-df99-4669-a19b-5d0aabedd384@codeserver.dev.5731c554-df99-4669-a19b-5d0aabedd384.drush.in:2222/~/repository.git`
+  * Bitbucket: none
+* **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/2552717/workspaces/20)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p342298693/reports/intelligenthome) 
+
 ### Other
 | Name | URL | Platform | We Host | We Support | Maintenance | Built By | Tag Manager | GA Prop |
 | ---- | --- | -------- | ------- | ---------- | -------- | --- | ----------- | ------- |
 | Admin IT | [https://adminit.uga.edu](https://adminit.uga.edu/) | Omni CMS | false | true | | | | 
 | Blue Key Honor's Society | [https://bluekey.uga.edu](https://bluekey.uga.edu/) | Pantheon | false | true | false | MARCOMM | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/12441450/workspaces/6) | [GA Property](https://analytics.google.com/analytics/web/#/p383893323/reports/home) |
-| Brand (Style Guide) | [https://brand.uga.edu](https://brand.uga.edu/) | Pantheon | false | true | false | | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/2552717/workspaces/20) | [GA Property](https://analytics.google.com/analytics/web/#/p342298693/reports/intelligenthome) |
 | Commencement | [https://commencement.uga.edu](https://commencement.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4 | https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome |
 | Elevate | [https://elevate.uga.edu](https://elevate.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/6672948/workspaces/7 | https://analytics.google.com/analytics/web/#/p384248989/reports/intelligenthome |
 | Emergency | [https://emergency.uga.edu](https://emergency.uga.edu/) | Omni CMS | false | true | false | | | |
