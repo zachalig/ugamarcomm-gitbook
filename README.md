@@ -63,12 +63,28 @@ Branding standards and assets for the University
 * **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/2552717/workspaces/20)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p342298693/reports/intelligenthome) 
 
+****
+
+### Commencement
+
+Informational site about commencements throughout UGA\
+
+* **URL:** [https://commencement.uga.edu](https://commencement.uga.edu)
+* **Hosted on:** Omni CMS
+* **We host:** No
+* **We support:** Yes
+* **Monthly updates:** No
+* **Built by:** EITS
+* **Tag manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
+
+****
+
 ### Other
 | Name | URL | Platform | We Host | We Support | Maintenance | Built By | Tag Manager | GA Prop |
 | ---- | --- | -------- | ------- | ---------- | -------- | --- | ----------- | ------- |
 | Admin IT | [https://adminit.uga.edu](https://adminit.uga.edu/) | Omni CMS | false | true | | | | 
 | Blue Key Honor's Society | [https://bluekey.uga.edu](https://bluekey.uga.edu/) | Pantheon | false | true | false | MARCOMM | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/12441450/workspaces/6) | [GA Property](https://analytics.google.com/analytics/web/#/p383893323/reports/home) |
-| Commencement | [https://commencement.uga.edu](https://commencement.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4 | https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome |
 | Elevate | [https://elevate.uga.edu](https://elevate.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/6672948/workspaces/7 | https://analytics.google.com/analytics/web/#/p384248989/reports/intelligenthome |
 | Emergency | [https://emergency.uga.edu](https://emergency.uga.edu/) | Omni CMS | false | true | false | | | |
 | Equal Opportunity Office | [https://eoo.uga.edu](https://eoo.uga.edu/) | Omni CMS | false | true | false | | | |
