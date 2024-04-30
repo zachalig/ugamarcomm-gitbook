@@ -3,6 +3,6 @@
 * [UGA MARCOMM Webdev Team Knowledgebase Home](README.md)
 * [Annual Recurring Projects](annual-recurring-projects.md)
 
-## Group 1
+## MARCOMM Websites
 
-* [Active Learning (activelearning.uga.edu)](group-1/active-learning-activelearning.uga.edu.md)
+* [Active Learning (activelearning.uga.edu)](marcomm-websites/active-learning-activelearning.uga.edu.md)
