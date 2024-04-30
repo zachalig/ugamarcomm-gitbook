@@ -24,18 +24,19 @@ For details see [Active Learning](marcomm-websites/active-learning-activelearnin
 * **URL:** [https://activelearning.uga.edu](https://activelearning.uga.edu/)
 * **Hosted on:** [Pantheon](https://dashboard.pantheon.io/sites/121d7db6-d4a2-4b35-b579-87dd3fe64130#dev/code)
 * **We host:** Yes
-* **We support and Maintain:** Yes
+* **We support:** Yes
+* **Monthly Maintenance:** Yes
 * **GIT Repository:** none
 * **Tag Manager:**[Open Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/92313611/workspaces/3)
 * **GA Property:** [Open Admin Panel](https://analytics.google.com/analytics/web/#/p328028045/reports/home/)
 
 ### Other
-| Name | URL | Platform | We Host | We Support | We Built | ??? | Tag Manager | GA Prop |
+| Name | URL | Platform | We Host | We Support | Maintenance | Built By | Tag Manager | GA Prop |
 | ---- | --- | -------- | ------- | ---------- | -------- | --- | ----------- | ------- |
-| Admin IT | [https://adminit.uga.edu](https://adminit.uga.edu/) | Omni CMS | false | true | false | | | |
-| Audit | [https://audit.uga.edu](https://audit.uga.edu/) | Omni CMS | false | true | false | | | | 
-| Blue Key Honor's Society | [https://bluekey.uga.edu](https://bluekey.uga.edu/) | Pantheon | false | true | false | | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/12441450/workspaces/6) | [GA Property](https://analytics.google.com/analytics/web/#/p383893323/reports/home) |
-| Brand (Style Guide) | [https://brand.uga.edu](https://brand.uga.edu/) | Pantheon | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/2552717/workspaces/20 | https://analytics.google.com/analytics/web/#/p342298693/reports/intelligenthome |
+| Admin IT | [https://adminit.uga.edu](https://adminit.uga.edu/) | Omni CMS | false | true | | | |
+| Audit | [https://audit.uga.edu](https://audit.uga.edu/) | Omni CMS | false | true | false |  |  |  | 
+| Blue Key Honor's Society | [https://bluekey.uga.edu](https://bluekey.uga.edu/) | Pantheon | false | true | false | MARCOMM | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/12441450/workspaces/6) | [GA Property](https://analytics.google.com/analytics/web/#/p383893323/reports/home) |
+| Brand (Style Guide) | [https://brand.uga.edu](https://brand.uga.edu/) | Pantheon | false | true | false | | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/2552717/workspaces/20) | [GA Property](https://analytics.google.com/analytics/web/#/p342298693/reports/intelligenthome) |
 | Commencement | [https://commencement.uga.edu](https://commencement.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4 | https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome |
 | Elevate | [https://elevate.uga.edu](https://elevate.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/6672948/workspaces/7 | https://analytics.google.com/analytics/web/#/p384248989/reports/intelligenthome |
 | Emergency | [https://emergency.uga.edu](https://emergency.uga.edu/) | Omni CMS | false | true | false | | | |
@@ -57,6 +58,6 @@ For details see [Active Learning](marcomm-websites/active-learning-activelearnin
 | TinyUGA | [https://t.uga.edu](https://t.uga.edu/) | EITS Web Server | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/13571981/workspaces/9 | https://analytics.google.com/analytics/web/#/p275500818/reports/intelligenthome |
 | UGA Magazine | [https://ugamagazine.uga.edu](https://ugamagazine.uga.edu/) | ExpressionEngine | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/2776123/workspaces/13 | https://analytics.google.com/analytics/web/#/p384266797/reports/intelligenthome |
 | UGA Today | [https://news.uga.edu](https://news.uga.edu/) | Pantheon | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/119185083/workspaces/5 | https://analytics.google.com/analytics/web/#/p382674197/reports/intelligenthome |
-| UGA.edu | [https://uga.edu](https://uga.edu/) | AWS | false | true | false | | Carnegie: https://tagmanager.google.com/#/container/accounts/270367539/containers/2384436/workspaces/1000099 Main: https://tagmanager.google.com/#/container/accounts/270367539/containers/119182773/workspaces/4 | https://analytics.google.com/analytics/web/#/p382694208/reports/intelligenthome |
+| UGA.edu | [https://uga.edu](https://uga.edu/) | AWS | false | true | false | | [Carnegie Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/2384436/workspaces/1000099) \| [Main Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182773/workspaces/4) | [GA Property](https://analytics.google.com/analytics/web/#/p382694208/reports/intelligenthome) |
 | Visitor's Center | [https://visit.uga.edu](https://visit.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/119181113/workspaces/4 | https://analytics.google.com/analytics/web/#/p382670834/reports/intelligenthome |
 | We Are Georgia | [https://wearegeoriga.uga.edu](https://wearegeoriga.uga.edu/) | Pantheon | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/175093798/workspaces/12 | https://analytics.google.com/analytics/web/#/a2622296p422915534/admin/streams/table/ |
