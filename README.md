@@ -13,11 +13,25 @@ description: >-
 
 ## Our Sites
 
-_(Source: https://docs.google.com/spreadsheets/d/1hHYSv2X\_r2yJhKOflxY\_qft-X55uujo07Hrm1fhzAHQ/edit#gid=0 )_
+_(Source: [Google Sheet: MARCOMM Websites](https://docs.google.com/spreadsheets/d/1hHYSv2X_r2yJhKOflxY_qft-X55uujo07Hrm1fhzAHQ/edit#gid=0) )_
 
-| Website Name                                                         | URL                                                                         | Hosted On             | Host  | Maintain | Built | GIT  | Tag Manager Container                                                                                                                                                                                             | GA Property                                                                          |
+### Active Learning
+For details see [Active Learning](group-1/active-learning-activelearning.uga.edu.md) 
+
+#### Overview
+* **URL:** [https://activelearning.uga.edu](https://activelearning.uga.edu/)
+* **Hosted on:** [Pantheon](https://dashboard.pantheon.io/sites/121d7db6-d4a2-4b35-b579-87dd3fe64130#dev/code)
+* **We host:** Yes
+* **We support and Maintain:** Yes     
+* **GIT Repository:** none 
+* **Tag Manager:**[https://tagmanager.google.com/#/container/accounts/270367539/containers/92313611/workspaces/3](https://tagmanager.google.com/#/container/accounts/270367539/containers/92313611/workspaces/3)
+* **GA Property:** [https://analytics.google.com/analytics/web/#/p328028045/reports/home](https://analytics.google.com/analytics/web/#/p328028045/reports/home)
+
+### Other
+
+| Website Name | URL   | Hosted On  | Host | Maintain | Built | GIT  | Tag Manager | GA Property                                                                          |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------- | ----- | -------- | ----- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Active Learning](group-1/active-learning-activelearning.uga.edu.md) | [https://activelearning.uga.edu](https://activelearning.uga.edu/)           | Pantheon              | true  | true     | true  | none | https://tagmanager.google.com/#/container/accounts/270367539/containers/92313611/workspaces/3                                                                                                                     | https://analytics.google.com/analytics/web/#/p328028045/reports/home                 |
+
 | Admin IT                                                             | [https://adminit.uga.edu](https://adminit.uga.edu/)                         | Omni CMS              | false | true     | false |      |                                                                                                                                                                                                                   |                                                                                      |
 | Audit                                                                | [https://audit.uga.edu](https://audit.uga.edu/)                             | Omni CMS              | false | true     | false |      |                                                                                                                                                                                                                   |                                                                                      |
 | Blue Key Honor's Society                                             | [https://bluekey.uga.edu](https://bluekey.uga.edu/)                         | Pantheon              | false | true     | false |      | https://tagmanager.google.com/#/container/accounts/270367539/containers/12441450/workspaces/6                                                                                                                     | https://analytics.google.com/analytics/web/#/p383893323/reports/home                 |
