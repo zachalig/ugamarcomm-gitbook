@@ -30,11 +30,28 @@ For details see [Active Learning](marcomm-websites/active-learning-activelearnin
 * **Tag Manager:**[Open Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/92313611/workspaces/3)
 * **GA Property:** [Open Admin Panel](https://analytics.google.com/analytics/web/#/p328028045/reports/home/)
 
+****
+
+### Audit
+
+Hosts legal and instructional information from the IAD (Internal Auditing Division).
+
+* **URL:** [https://audit.uga.edu](https://audit.uga.edu/)
+* **Hosted on:** Omni CMS
+* **We host:** No
+* **We support:** Yes
+* **Created By:** EITS
+* **Monthly Maintenance:** No
+* **GIT Repository:** none
+* **Tag Manager:** _unknown or non-existent_
+* **GA Property:** _unknown or non-existent_
+
+****
+
 ### Other
 | Name | URL | Platform | We Host | We Support | Maintenance | Built By | Tag Manager | GA Prop |
 | ---- | --- | -------- | ------- | ---------- | -------- | --- | ----------- | ------- |
-| Admin IT | [https://adminit.uga.edu](https://adminit.uga.edu/) | Omni CMS | false | true | | | |
-| Audit | [https://audit.uga.edu](https://audit.uga.edu/) | Omni CMS | false | true | false |  |  |  | 
+| Admin IT | [https://adminit.uga.edu](https://adminit.uga.edu/) | Omni CMS | false | true | | | | 
 | Blue Key Honor's Society | [https://bluekey.uga.edu](https://bluekey.uga.edu/) | Pantheon | false | true | false | MARCOMM | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/12441450/workspaces/6) | [GA Property](https://analytics.google.com/analytics/web/#/p383893323/reports/home) |
 | Brand (Style Guide) | [https://brand.uga.edu](https://brand.uga.edu/) | Pantheon | false | true | false | | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/2552717/workspaces/20) | [GA Property](https://analytics.google.com/analytics/web/#/p342298693/reports/intelligenthome) |
 | Commencement | [https://commencement.uga.edu](https://commencement.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4 | https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome |
