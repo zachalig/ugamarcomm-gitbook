@@ -17,10 +17,6 @@ _(Source:_ [_Google Sheet: MARCOMM Websites_](https://docs.google.com/spreadshee
 
 ### Active Learning
 
-For details see [Active Learning](marcomm-websites/active-learning-activelearning.uga.edu.md)
-
-#### Overview
-
 * **URL:** [https://activelearning.uga.edu](https://activelearning.uga.edu/)
 * **Hosted on:** [Pantheon](https://dashboard.pantheon.io/sites/121d7db6-d4a2-4b35-b579-87dd3fe64130#dev/code)
 * **We host:** Yes
@@ -30,9 +26,11 @@ For details see [Active Learning](marcomm-websites/active-learning-activelearnin
 * **Tag Manager:**[Open Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/92313611/workspaces/3)
 * **GA Property:** [Open Admin Panel](https://analytics.google.com/analytics/web/#/p328028045/reports/home/)
 
+For additional details see [Active Learning](marcomm-websites/active-learning-activelearning.uga.edu.md)
+
 ****
 
-### Audit
+### Audit - [https://audit.uga.edu](https://audit.uga.edu/)
 
 Hosts legal and instructional information from the IAD (Internal Auditing Division).
 
@@ -48,7 +46,7 @@ Hosts legal and instructional information from the IAD (Internal Auditing Divisi
 
 ****
 
-### Brand
+### Brand - [https://brand.uga.edu](https://brand.uga.edu)
 
 Branding standards and assets for the University
 
@@ -65,7 +63,7 @@ Branding standards and assets for the University
 
 ****
 
-### Commencement
+### Commencement - [https://commencement.uga.edu](https://commencement.uga.edu)
 
 Informational site about commencements throughout UGA\
 
@@ -77,6 +75,26 @@ Informational site about commencements throughout UGA\
 * **Built by:** EITS
 * **Tag manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
+
+****
+
+### We Are Georgia - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
+
+* **URL:** [https://commencement.uga.edu](https://commencement.uga.edu)
+* **Hosted on:** [Pantheon](https://dashboard.pantheon.io/sites/7d01c580-7a6c-43cb-bd59-fba1f3172a92#dev/code)
+* **We host:** Yes
+* **We support:** Yes
+* **Monthly updates:** Yes
+* **Built by:** MARCOMM
+* **GIT Repositories:**
+  * Pantheon: 
+    * [Admin Panel](https://dashboard.pantheon.io/sites/7d01c580-7a6c-43cb-bd59-fba1f3172a92#dev/code)
+    * ssh: `ssh://codeserver.dev.7d01c580-7a6c-43cb-bd59-fba1f3172a92@codeserver.dev.7d01c580-7a6c-43cb-bd59-fba1f3172a92.drush.in:2222/~/repository.git`
+  * Bitbucket: 
+    * [Admin Panel](https://bitbucket.org/ugamc/we-are-georgia/src/master/) 
+    * ssh: `git@bitbucket.org:ugamc/we-are-georgia.git`
+* **Tag manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/175093798/workspaces/12)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/a2622296p422915534/admin/streams/table/)
 
 ****
 
@@ -107,4 +125,3 @@ Informational site about commencements throughout UGA\
 | UGA Today | [https://news.uga.edu](https://news.uga.edu/) | Pantheon | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/119185083/workspaces/5 | https://analytics.google.com/analytics/web/#/p382674197/reports/intelligenthome |
 | UGA.edu | [https://uga.edu](https://uga.edu/) | AWS | false | true | false | | [Carnegie Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/2384436/workspaces/1000099) \| [Main Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182773/workspaces/4) | [GA Property](https://analytics.google.com/analytics/web/#/p382694208/reports/intelligenthome) |
 | Visitor's Center | [https://visit.uga.edu](https://visit.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/119181113/workspaces/4 | https://analytics.google.com/analytics/web/#/p382670834/reports/intelligenthome |
-| We Are Georgia | [https://wearegeoriga.uga.edu](https://wearegeoriga.uga.edu/) | Pantheon | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/175093798/workspaces/12 | https://analytics.google.com/analytics/web/#/a2622296p422915534/admin/streams/table/ |
