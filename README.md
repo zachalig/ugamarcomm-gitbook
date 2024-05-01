@@ -96,6 +96,8 @@ Informational site about commencements throughout UGA\
 * **Tag manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/175093798/workspaces/12)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/a2622296p422915534/admin/streams/table/)
 
+For additional details, see the [we-are-georgia README](https://bitbucket.org/ugamc/we-are-georgia/src/master/README.md) (via Bitbucket)
+
 ****
 
 ### Other
