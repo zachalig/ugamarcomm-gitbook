@@ -80,7 +80,7 @@ Informational site about commencements throughout UGA\
 
 ### We Are Georgia - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
 
-* **URL:** [https://commencement.uga.edu](https://commencement.uga.edu)
+* **URL:** [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
 * **Hosted on:** [Pantheon](https://dashboard.pantheon.io/sites/7d01c580-7a6c-43cb-bd59-fba1f3172a92#dev/code)
 * **We host:** Yes
 * **We support:** Yes
