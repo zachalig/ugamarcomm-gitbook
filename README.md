@@ -86,6 +86,8 @@ Informational site about commencements throughout UGA\
 * **We support:** Yes
 * **Monthly updates:** Yes
 * **Built by:** MARCOMM
+* **Asana Project:** [We Are Georgia > Overview](https://app.asana.com/0/1204716366837147/1204716366837147)
+* **Project Manager:** Brittney Wurdeman
 * **GIT Repositories:**
   * Pantheon: 
     * [Admin Panel](https://dashboard.pantheon.io/sites/7d01c580-7a6c-43cb-bd59-fba1f3172a92#dev/code)
@@ -105,7 +107,7 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
 | ---- | --- | -------- | ------- | ---------- | -------- | --- | ----------- | ------- |
 | Admin IT | [https://adminit.uga.edu](https://adminit.uga.edu/) | Omni CMS | false | true | | | | 
 | Blue Key Honor's Society | [https://bluekey.uga.edu](https://bluekey.uga.edu/) | Pantheon | false | true | false | MARCOMM | [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/12441450/workspaces/6) | [GA Property](https://analytics.google.com/analytics/web/#/p383893323/reports/home) |
-| Elevate | [https://elevate.uga.edu](https://elevate.uga.edu/) | Omni CMS | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/6672948/workspaces/7 | https://analytics.google.com/analytics/web/#/p384248989/reports/intelligenthome |
+| Elevate | [https://elevate.uga.edu](https://elevate.uga.edu/) | Omni CMS | false | true | false | | [Tag Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/6672948/workspaces/7) | [GA Property](https://analytics.google.com/analytics/web/#/p384248989/reports/intelligenthome) |
 | Emergency | [https://emergency.uga.edu](https://emergency.uga.edu/) | Omni CMS | false | true | false | | | |
 | Equal Opportunity Office | [https://eoo.uga.edu](https://eoo.uga.edu/) | Omni CMS | false | true | false | | | |
 | Game Changers | [https://gamechangers.uga.edu](https://gamechangers.uga.edu/) | Pantheon | false | true | false | | https://tagmanager.google.com/#/container/accounts/270367539/containers/165667552/workspaces/2 | https://analytics.google.com/analytics/web/#/p406573713/reports/intelligenthome |
