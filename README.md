@@ -89,6 +89,8 @@ Informational site about commencements throughout UGA\
 * **Tag Manager:** [Tag Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/6672948/workspaces/7)
 * **GA Property:** [GA Property](https://analytics.google.com/analytics/web/#/p384248989/reports/intelligenthome)
 
+****
+
 ### We Are Georgia - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
 
 * **URL:** [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
@@ -108,6 +110,8 @@ Informational site about commencements throughout UGA\
     * ssh: `git@bitbucket.org:ugamc/we-are-georgia.git`
 * **Tag manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/175093798/workspaces/12)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/a2622296p422915534/admin/streams/table/)
+
+#### Additional Details
 
 For additional details, see the [we-are-georgia README](https://bitbucket.org/ugamc/we-are-georgia/src/master/README.md) (via Bitbucket)
 
