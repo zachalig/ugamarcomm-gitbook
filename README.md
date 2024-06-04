@@ -91,6 +91,19 @@ Informational site about commencements throughout UGA\\
 
 ***
 
+### Game Changers - [https://gamechangers.uga.edu](https://gamechangers.uga.edu)
+
+* **URL:** [https://gamechangers.uga.edu](https://gamechangers.uga.edu)
+* **Hosted on:** Pantheon
+* **We host:** Yes
+* **We support:** Yes
+* **Monthly updates:** Yes
+* **Built by:** MARCOMM (Robert Slocumbe - [robslo@uga.edu](mailto:robslo@uga.edu))
+* **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/165667552/workspaces/2)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p406573713/reports/intelligenthome)
+
+***
+
 ### We Are Georgia - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
 
 * **URL:** [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
@@ -178,17 +191,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
       <td></td>
       <td></td>
       <td></td>
-    </tr>
-    <tr>
-      <td>Game Changers</td>
-      <td><a href="https://gamechangers.uga.edu/">https://gamechangers.uga.edu</a></td>
-      <td>Pantheon</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/165667552/workspaces/2</td>
-      <td>https://analytics.google.com/analytics/web/#/p406573713/reports/intelligenthome</td>
     </tr>
     <tr>
       <td>Holmes Hunter Lecture</td>
