@@ -103,6 +103,18 @@ Informational site about commencements throughout UGA\\
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p406573713/reports/intelligenthome)
 
 ***
+### Office of The President - [https://president.uga.edu](https://president.uga.edu)
+
+*  **URL:** [https://president.uga.edu](https://president.uga.edu)
+*  **Hosted on:** WP Engine (via Kaptiv8)
+*  **We host:** 
+*  **We support:** Yes
+*  **Monthly updates:** Yes
+*  **Built by:** Kaptiv8
+*  **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
+*  **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
+
+***
 
 ### We Are Georgia - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
 
@@ -246,17 +258,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
       <td></td>
       <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/119181113/workspaces/4</td>
       <td>https://analytics.google.com/analytics/web/#/p382670834/reports/intelligenthome</td>
-    </tr>
-    <tr>
-      <td>Office of the President</td>
-      <td><a href="https://president.uga.edu/">https://president.uga.edu</a></td>
-      <td>WP Engine via Kaptiv8</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4</td>
-      <td>https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome</td>
     </tr>
     <tr>
       <td>Office of the Provost</td>
