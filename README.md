@@ -110,7 +110,7 @@ Informational site about commencements throughout UGA\\
 *  **We host:** No
 *  **We support:** Limited - Friendly support regarding site usage is encouraged, but k8 is responsible for updates and break/fix issues.
 *  **Monthly updates:** No
-*  **Built by:** Kaptiv8
+*  **Built by:** [Kaptiv8](https://kaptiv8marketing.com/)
 *  **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
 *  **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
 
