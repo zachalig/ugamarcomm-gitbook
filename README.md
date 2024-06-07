@@ -103,6 +103,20 @@ Informational site about commencements throughout UGA\\
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p406573713/reports/intelligenthome)
 
 ***
+
+### Impact (National Reputation Landing Page) - [https://impact.uga.edu](https://impact.uga.edu)
+
+*  **URL:** [https://impact.uga.edu](https://impact.uga.edu)
+*  **Hosted on:** Pantheon (?)
+*  **We host:** No
+*  **We support:** Yes (Content only)
+*  **Monthly updates:** No
+*  **Built by:** [Frankel Agency](https://frankelagency.com/)
+*  **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/174764628/workspaces/19)
+*  **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p419819708/reports/home)
+
+***
+
 ### Office of The President - [https://president.uga.edu](https://president.uga.edu)
 
 *  **URL:** [https://president.uga.edu](https://president.uga.edu)
@@ -113,6 +127,21 @@ Informational site about commencements throughout UGA\\
 *  **Built by:** [Kaptiv8](https://kaptiv8marketing.com/)
 *  **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
 *  **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
+
+***
+### TinyUGA - [https://t.uga.edu](https://t.uga.edu)
+
+* **URL:**  [https://t.uga.edu](https://t.uga.edu)
+* **Platform:** EITS Small [VM instance](https://eits.uga.edu/support/cost_recovery/service_details/virtual_server_support_and_resources/)
+* **We host:** No
+* **We support:** Yes
+* **Monthly updates:** Yes
+* **Built by:** MARCOMM
+* **GIT repos:**
+  * [UGA Link Shortener Lite](https://bitbucket.org/ugamc/uga-link-shortener-lite/src/master/) - Limited functionality version of the shortener used to transition service from old EITS shared hosting to the new VM
+  * [UGA Link Shortener (t.uga.edu)](https://bitbucket.org/ugamc/uga-link-shortener-t.uga.edu/src/main/) - Containerized version of the link shortener that was hosted on the old EITS shared hosting platform. _Note:_ As of June 2024, this repo is non-functional and was mostly used to explore the app and discern how to migrate it. The intent is to eventually grow this into the official version of the link shortener.
+* **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/13571981/workspaces/9)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p275500818/reports/intelligenthome)
 
 ***
 
@@ -214,17 +243,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
       <td></td>
       <td></td>
       <td></td>
-    </tr>
-    <tr>
-      <td>Impact (National Reputation Landing Page)</td>
-      <td><a href="https://impact.uga.edu/">https://impact.uga.edu</a></td>
-      <td>Pantheon</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/174764628/workspaces/19</td>
-      <td>https://analytics.google.com/analytics/web/#/p419819708/reports/home</td>
     </tr>
     <tr>
       <td>Legal Affairs</td>
@@ -335,17 +353,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
       <td></td>
       <td></td>
       <td></td>
-    </tr>
-    <tr>
-      <td>TinyUGA</td>
-      <td><a href="https://t.uga.edu/">https://t.uga.edu</a></td>
-      <td>EITS Web Server</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/13571981/workspaces/9</td>
-      <td>https://analytics.google.com/analytics/web/#/p275500818/reports/intelligenthome</td>
     </tr>
     <tr>
       <td>UGA Magazine</td>
