@@ -129,6 +129,20 @@ Informational site about commencements throughout UGA\\
 *  **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
 
 ***
+
+### Office of the Provost - [https://provost.uga.edu/](https://provost.uga.edu/)
+
+*   **URL:**  [https://provost.uga.edu/](https://provost.uga.edu/)
+*   **Platform:** Omni CMS
+*   **We host:** No
+*   **We Support:** yes
+*   **Monthly updates:** No
+*   **Built by:** ??
+*   **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
+*   **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
+
+***
+
 ### TinyUGA - [https://t.uga.edu](https://t.uga.edu)
 
 * **URL:**  [https://t.uga.edu](https://t.uga.edu)
@@ -276,17 +290,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
       <td></td>
       <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/119181113/workspaces/4</td>
       <td>https://analytics.google.com/analytics/web/#/p382670834/reports/intelligenthome</td>
-    </tr>
-    <tr>
-      <td>Office of the Provost</td>
-      <td><a href="https://provost.uga.edu/">https://provost.uga.edu</a></td>
-      <td>Omni CMS</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4</td>
-      <td>https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome</td>
     </tr>
     <tr>
       <td>President's Annual Report</td>
