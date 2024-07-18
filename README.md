@@ -133,7 +133,8 @@ Informational site about commencements throughout UGA\\
 ### Office of the Provost - [https://provost.uga.edu/](https://provost.uga.edu/)
 
 *   **URL:**  [https://provost.uga.edu/](https://provost.uga.edu/)
-*   **Platform:** Omni CMS
+*   **Platform:** Omni CMS (MARCOMM Dash)
+  *  **Admin URL:** [MARCOMM Dash](https://a.cms.omniupdate.com/11/#uga/MARCOMM)  
 *   **We host:** No
 *   **We Support:** yes
 *   **Monthly updates:** No
