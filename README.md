@@ -160,6 +160,19 @@ Informational site about commencements throughout UGA\\
 
 ***
 
+### Visitor's Center
+
+* **URL:**  [https://visit.uga.edu/](https://visit.uga.edu/)
+* **Platform:** Omni CMS
+  * **Admin Panel:** [M&C Dash](https://a.cms.omniupdate.com/11/#uga/M_and_C)
+* **We Host:** No
+* **We Support:** Yes
+* **Built By:** EITS(?)
+* **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119181113/workspaces/4)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382670834/reports/intelligenthome)
+
+***
+
 ### We Are Georgia - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
 
 * **URL:** [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
@@ -394,17 +407,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
           href="https://tagmanager.google.com/#/container/accounts/270367539/containers/119182773/workspaces/4">Main
           Admin Panel</a></td>
       <td><a href="https://analytics.google.com/analytics/web/#/p382694208/reports/intelligenthome">GA Property</a></td>
-    </tr>
-    <tr>
-      <td>Visitor's Center</td>
-      <td><a href="https://visit.uga.edu/">https://visit.uga.edu</a></td>
-      <td>Omni CMS</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/119181113/workspaces/4</td>
-      <td>https://analytics.google.com/analytics/web/#/p382670834/reports/intelligenthome</td>
     </tr>
   </tbody>
 </table>
