@@ -6,3 +6,7 @@
 ## MARCOMM Websites
 
 * [Active Learning (activelearning.uga.edu)](marcomm-websites/active-learning-activelearning.uga.edu.md)
+
+***
+
+* [Accessibility (A11y) Quality Assurance Process](accessibility-a11y-quality-assurance-process.md)

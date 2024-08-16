@@ -10,6 +10,7 @@ description: >-
 ## Getting Started at MARCOMM
 
 * [Annual Recurring Projects](annual-recurring-projects.md)
+* [accessibility-a11y-quality-assurance-process.md](accessibility-a11y-quality-assurance-process.md "mention")
 
 ## Our Sites
 
@@ -106,48 +107,48 @@ Informational site about commencements throughout UGA\\
 
 ### Impact (National Reputation Landing Page) - [https://impact.uga.edu](https://impact.uga.edu)
 
-*  **URL:** [https://impact.uga.edu](https://impact.uga.edu)
-*  **Hosted on:** Pantheon (?)
-*  **We host:** No
-*  **We support:** Yes (Content only)
-*  **Monthly updates:** No
-*  **Built by:** [Frankel Agency](https://frankelagency.com/)
-*  **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/174764628/workspaces/19)
-*  **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p419819708/reports/home)
+* **URL:** [https://impact.uga.edu](https://impact.uga.edu)
+* **Hosted on:** Pantheon (?)
+* **We host:** No
+* **We support:** Yes (Content only)
+* **Monthly updates:** No
+* **Built by:** [Frankel Agency](https://frankelagency.com/)
+* **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/174764628/workspaces/19)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p419819708/reports/home)
 
 ***
 
 ### Office of The President - [https://president.uga.edu](https://president.uga.edu)
 
-*  **URL:** [https://president.uga.edu](https://president.uga.edu)
-*  **Platform:** WP Engine (via Kaptiv8)
-*  **We host:** No
-*  **We support:** Limited - Friendly support regarding site usage is encouraged, but k8 is responsible for updates and break/fix issues.
-*  **Monthly updates:** No
-*  **Built by:** [Kaptiv8](https://kaptiv8marketing.com/)
-*  **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
-*  **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
+* **URL:** [https://president.uga.edu](https://president.uga.edu)
+* **Platform:** WP Engine (via Kaptiv8)
+* **We host:** No
+* **We support:** Limited - Friendly support regarding site usage is encouraged, but k8 is responsible for updates and break/fix issues.
+* **Monthly updates:** No
+* **Built by:** [Kaptiv8](https://kaptiv8marketing.com/)
+* **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
 
 ***
 
 ### Office of the Provost - [https://provost.uga.edu/](https://provost.uga.edu/)
 
-*   **URL:**  [https://provost.uga.edu/](https://provost.uga.edu/)
-*   **Platform:** Omni CMS (MARCOMM Dash)
-  *  **Admin URL:** [MARCOMM Dash](https://a.cms.omniupdate.com/11/#uga/MARCOMM)  
-*   **We host:** No
-*   **We Support:** yes
-*   **Monthly updates:** No
-*   **Built by:** ??
-*   **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
-*   **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
+* **URL:** [https://provost.uga.edu/](https://provost.uga.edu/)
+* **Platform:** Omni CMS (MARCOMM Dash)
+* **Admin URL:** [MARCOMM Dash](https://a.cms.omniupdate.com/11/#uga/MARCOMM)
+* **We host:** No
+* **We Support:** yes
+* **Monthly updates:** No
+* **Built by:** ??
+* **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
 
 ***
 
 ### TinyUGA - [https://t.uga.edu](https://t.uga.edu)
 
-* **URL:**  [https://t.uga.edu](https://t.uga.edu)
-* **Platform:** EITS Small [VM instance](https://eits.uga.edu/support/cost_recovery/service_details/virtual_server_support_and_resources/)
+* **URL:** [https://t.uga.edu](https://t.uga.edu)
+* **Platform:** EITS Small [VM instance](https://eits.uga.edu/support/cost\_recovery/service\_details/virtual\_server\_support\_and\_resources/)
 * **We host:** No
 * **We support:** Yes
 * **Monthly updates:** Yes
