@@ -137,13 +137,28 @@ Informational site about commencements throughout UGA\\
 * **Platform:** Omni CMS (MARCOMM Dash)
 * **Admin URL:** [MARCOMM Dash](https://a.cms.omniupdate.com/11/#uga/MARCOMM)
 * **We host:** No
-* **We Support:** yes
+* **We Support:** Yes
 * **Monthly updates:** No
 * **Built by:** ??
 * **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
 
-***
+****
+
+### Stories: Beyond the Arch - [https://stories.uga.edu/](https://stories.uga.edu/)
+
+* **URL:** [https://stories.uga.edu/](https://stories.uga.edu/)
+* **Platform:** WordPress (Pantheon.io)
+* **Admin URL:** [WP Admin Panel](https://stories.uga.edu/wp-admin)
+* **We host:** Yes
+* **We Support:** Yes
+* **Monthly updates:** Yes
+* **Built by:** MARCOMM (Zach Alig ([zachalig@uga.edu](mailto:zachalig@uga.edu)))
+* **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367540/containers/48368640/workspaces/5)
+* **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p279130243/reports/intelligenthome)
+* **Google Search Console:** [Admin Panel](https://search.google.com/search-console?resource_id=https%3A%2F%2Fstories.uga.edu%2F)
+
+****
 
 ### TinyUGA - [https://t.uga.edu](https://t.uga.edu)
 
@@ -349,17 +364,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
       <td></td>
       <td></td>
       <td></td>
-    </tr>
-    <tr>
-      <td>Stories (UGA Magazine Articles)</td>
-      <td><a href="https://stories.uga.edu/">https://stories.uga.edu</a></td>
-      <td>Exposure</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/48368640/workspaces/5</td>
-      <td>https://analytics.google.com/analytics/web/#/p279130243/reports/intelligenthome</td>
     </tr>
     <tr>
       <td>The Ombudspersons</td>
