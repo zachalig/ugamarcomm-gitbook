@@ -29,7 +29,7 @@ _(Source:_ [_Google Sheet: MARCOMM Websites_](https://docs.google.com/spreadshee
 
 For additional details see [Active Learning](marcomm-websites/active-learning-activelearning.uga.edu.md)
 
-***
+---
 
 ### Audit - [https://audit.uga.edu](https://audit.uga.edu/)
 
@@ -45,7 +45,7 @@ Hosts legal and instructional information from the IAD (Internal Auditing Divisi
 * **Tag Manager:** _unknown or non-existent_
 * **GA Property:** _unknown or non-existent_
 
-***
+---
 
 ### Brand - [https://brand.uga.edu](https://brand.uga.edu)
 
@@ -62,7 +62,7 @@ Branding standards and assets for the University
 * **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/2552717/workspaces/20)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p342298693/reports/intelligenthome)
 
-***
+---
 
 ### Commencement - [https://commencement.uga.edu](https://commencement.uga.edu)
 
@@ -77,7 +77,7 @@ Informational site about commencements throughout UGA\\
 * **Tag manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/119182098/workspaces/4)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p382679624/reports/intelligenthome)
 
-***
+---
 
 ### Elevate - [https://elevate.uga.edu](https://elevate.uga.edu)
 
@@ -90,7 +90,27 @@ Informational site about commencements throughout UGA\\
 * **Tag Manager:** [Tag Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/6672948/workspaces/7)
 * **GA Property:** [GA Property](https://analytics.google.com/analytics/web/#/p384248989/reports/intelligenthome)
 
-***
+---
+
+### Emergency - [https://emergency.uga.edu/](https://emergency.uga.edu)
+
+* **URL:** [https://emergency.uga.edu/](https://emergency.uga.edu)
+* **Hosted on:** Omni CMS ([Emergency Dash](https://a.cms.omniupdate.com/11/#uga/EMERGENCY))
+* **We host:** No
+* **We support:** Partial
+  * EITS and OEP are 1st level support. 
+  * We are backup and update some content in the event of an emergency (see notes below for details)
+* **Monthly Updates:** No
+* **Built by:** EITS (?)
+* **Tag Manager:** None
+* **GA Property:** None
+
+#### Notes
+
+* This site will likely be replaced by a WordPress one before the end of 2025 (EITS and OEP project)
+* Instuctions for updating emergency announcements are available here: [Updating the Emergency Website in Omni CMS 2023](https://www.dropbox.com/scl/fi/jxz0znfn0vd1prvvy7as7/Updating-the-Emergency-Website-in-Omni-CMS-2023.pdf?rlkey=j47fyjt0whcpyxnafio329y8q&st=m20lxzdt&dl=0)
+
+---
 
 ### Game Changers - [https://gamechangers.uga.edu](https://gamechangers.uga.edu)
 
@@ -103,7 +123,7 @@ Informational site about commencements throughout UGA\\
 * **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/165667552/workspaces/2)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p406573713/reports/intelligenthome)
 
-***
+---
 
 ### Impact (National Reputation Landing Page) - [https://impact.uga.edu](https://impact.uga.edu)
 
@@ -116,7 +136,7 @@ Informational site about commencements throughout UGA\\
 * **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/174764628/workspaces/19)
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p419819708/reports/home)
 
-***
+---
 
 ### Office of The President - [https://president.uga.edu](https://president.uga.edu)
 
@@ -213,7 +233,7 @@ Informational site about commencements throughout UGA\\
 
 For additional details, see the [we-are-georgia README](https://bitbucket.org/ugamc/we-are-georgia/src/master/README.md) (via Bitbucket)
 
-***
+---
 
 ### Other
 
@@ -254,17 +274,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
       <td><a href="https://tagmanager.google.com/#/container/accounts/270367539/containers/12441450/workspaces/6">Admin
           Panel</a></td>
       <td><a href="https://analytics.google.com/analytics/web/#/p383893323/reports/home">GA Property</a></td>
-    </tr>
-    <tr>
-      <td>Emergency</td>
-      <td><a href="https://emergency.uga.edu/">https://emergency.uga.edu</a></td>
-      <td>Omni CMS</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>Equal Opportunity Office</td>
