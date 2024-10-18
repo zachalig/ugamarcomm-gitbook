@@ -165,6 +165,22 @@ Informational site about commencements throughout UGA\\
 
 ****
 
+### President's Annual Report (PAR) - [https://par.uga.edu](https://par.uga.edu)
+
+- **URL:** [https://par.uga.edu/](https://par.uga.edu/)
+- **Platform:** Omni CMS
+  - **Admin panel:** [President's Office Dash](https://a.cms.omniupdate.com/11/#uga/PRESIDENT_OFFICE)
+- **We host:** No
+- **We support:** Yes
+- **Built by:** MARCOMM (Robert Solcumbe 2024)
+- **GIT Repositories**:
+  - [PAR 2017](https://bitbucket.org/ugamc/par17)
+  - [PAR 2022](https://bitbucket.org/ugamc/par22)
+  - [PAR 2023](https://bitbucket.org/ugamc/par23)
+  - [PAR 2024](https://bitbucket.org/ugamc/par-2024)
+- **Tag Manager:** [Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/197252746/workspaces/3)
+- **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p462784129/reports/intelligenthome)
+
 ### Stories: Beyond the Arch - [https://stories.uga.edu/](https://stories.uga.edu/)
 
 * **URL:** [https://stories.uga.edu/](https://stories.uga.edu/)
@@ -178,7 +194,7 @@ Informational site about commencements throughout UGA\\
 * **GA Property:** [Admin Panel](https://analytics.google.com/analytics/web/#/p279130243/reports/intelligenthome)
 * **Google Search Console:** [Admin Panel](https://search.google.com/search-console?resource_id=https%3A%2F%2Fstories.uga.edu%2F)
 
-****
+***
 
 ### TinyUGA - [https://t.uga.edu](https://t.uga.edu)
 
@@ -329,17 +345,6 @@ For additional details, see the [we-are-georgia README](https://bitbucket.org/ug
       <td></td>
       <td>https://tagmanager.google.com/#/container/accounts/270367539/containers/119181113/workspaces/4</td>
       <td>https://analytics.google.com/analytics/web/#/p382670834/reports/intelligenthome</td>
-    </tr>
-    <tr>
-      <td>President's Annual Report</td>
-      <td><a href="https://par.uga.edu/">https://par.uga.edu</a></td>
-      <td>Omni CMS</td>
-      <td>false</td>
-      <td>true</td>
-      <td>false</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>Safe &#x26; Secure</td>
