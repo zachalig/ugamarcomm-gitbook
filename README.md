@@ -69,7 +69,7 @@ Branding standards and assets for the University
 Informational site about commencements throughout UGA\\
 
 * **URL:** [https://commencement.uga.edu](https://commencement.uga.edu)
-* **Hosted on:** Omni CMS
+* **Hosted on:** Omni CMS - [President's Dashboard](https://a.cms.omniupdate.com/11/#uga/PRESIDENT_OFFICE)
 * **We host:** No
 * **We support:** Yes
 * **Monthly updates:** No
