@@ -10,3 +10,4 @@
 ***
 
 * [Accessibility (A11y) Quality Assurance Process](accessibility-a11y-quality-assurance-process.md)
+* [Image Format Recommendations for WordPress Content](image-formatting-standards.md)
