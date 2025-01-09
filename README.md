@@ -16,7 +16,7 @@ description: >-
 
 ### Guides and Standards
 
-* [Broken link](broken-reference "mention")
+* [Broken link](guides-and-standards/image-format-recommendations-for-wordpress-content.md "mention")
 * [annual-recurring-projects.md](annual-recurring-projects.md "mention")
 
 ## Our Sites
