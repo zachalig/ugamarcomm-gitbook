@@ -11,12 +11,12 @@ description: >-
 
 ### Processes
 
-* [accessibility-a11y-quality-assurance-process.md](accessibility-a11y-quality-assurance-process.md "mention")
-* [uga-single-sign-on-sso-wordpress-integration.md](uga-single-sign-on-sso-wordpress-integration.md "mention")
+* [accessibility-a11y-quality-assurance-process.md](processes/accessibility-a11y-quality-assurance-process.md "mention")
+* [uga-single-sign-on-sso-wordpress-integration.md](processes/uga-single-sign-on-sso-wordpress-integration.md "mention")
 
 ### Guides and Standards
 
-* [annual-recurring-projects.md](annual-recurring-projects.md "mention")
+* [annual-recurring-projects.md](guides-and-standards/annual-recurring-projects.md "mention")
 * [image-formatting-standards.md](guides-and-standards/image-formatting-standards.md "mention")
 
 ## Our Sites
