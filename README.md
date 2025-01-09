@@ -16,7 +16,7 @@ description: >-
 
 ### Guides and Standards
 
-* [image-formatting-standards.md](image-formatting-standards.md "mention")
+* [Broken link](broken-reference "mention")
 * [annual-recurring-projects.md](annual-recurring-projects.md "mention")
 
 ## Our Sites
