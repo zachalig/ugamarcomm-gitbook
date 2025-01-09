@@ -16,8 +16,8 @@ description: >-
 
 ### Guides and Standards
 
-* [Broken link](guides-and-standards/image-format-recommendations-for-wordpress-content.md "mention")
 * [annual-recurring-projects.md](annual-recurring-projects.md "mention")
+* [image-formatting-standards.md](guides-and-standards/image-formatting-standards.md "mention")
 
 ## Our Sites
 
@@ -34,7 +34,7 @@ _(Source:_ [_Google Sheet: MARCOMM Websites_](https://docs.google.com/spreadshee
 * **Tag Manager:**[Open Admin Panel](https://tagmanager.google.com/#/container/accounts/270367539/containers/92313611/workspaces/3)
 * **GA Property:** [Open Admin Panel](https://analytics.google.com/analytics/web/#/p328028045/reports/home/)
 
-For additional details see [Active Learning](broken-reference)
+For additional details see [Active Learning](broken-reference/)
 
 ***
 
