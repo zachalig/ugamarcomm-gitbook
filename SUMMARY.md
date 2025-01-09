@@ -7,5 +7,4 @@
 
 ## Guides and Standards
 
-* [Page 1](guides-and-standards/page-1.md)
 * [Image Format Recommendations for WordPress Content](guides-and-standards/image-formatting-standards.md)
