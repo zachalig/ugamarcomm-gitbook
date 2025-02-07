@@ -1,10 +1,12 @@
+---
+description: >-
+  How to set up transactional (system) emails on WordPress sites when hosted on
+  Pantheon
+---
+
 # WordPress Transactional Email Setup on Pantheon Hosting
 
 ***
-
-### description: How to set up transactional (system) emails on WordPress sites when hosted on Pantheon
-
-## WordPress Transactional Email Setup on Pantheon Hosting
 
 Some WordPress features require that it be able to send emails. For example, when a user requests a password reset, WordPress will send them an email with a link and instructions. Emails sent by an app, website, or other system, are called _transactional emails_.
 
