@@ -18,6 +18,7 @@ description: >-
 
 * [annual-recurring-projects.md](guides-and-standards/annual-recurring-projects.md "mention")
 * [image-formatting-standards.md](guides-and-standards/image-formatting-standards.md "mention")
+* [wp-transactional-email-pantheon.md](guides-and-standards/wp-transactional-email-pantheon.md "mention")
 
 ## Our Sites
 

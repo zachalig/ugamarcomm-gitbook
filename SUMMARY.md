@@ -11,4 +11,5 @@
 
 * [Timeline of Annual Recurring Projects](guides-and-standards/annual-recurring-projects.md)
 * [Image Format Recommendations for WordPress Content](guides-and-standards/image-formatting-standards.md)
+* [WordPress Transactional Email Setup on Pantheon Hosting](guides-and-standards/wp-transactional-email-pantheon.md "mention")
 
