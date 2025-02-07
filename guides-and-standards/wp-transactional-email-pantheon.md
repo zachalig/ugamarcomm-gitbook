@@ -1,6 +1,5 @@
 ---
-description: >-
-  How to set up transactional (system) emails on WordPress sites when hosted on Pantheon
+description: How to set up transactional (system) emails on WordPress sites when hosted on Pantheon
 ---
 
 # WordPress Transactional Email Setup on Pantheon Hosting
