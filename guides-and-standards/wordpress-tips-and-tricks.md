@@ -10,4 +10,4 @@ description: >-
 
 ### Fonts
 
-Tip here...
+Changes to default fontSizes in theme.json won’t be shown in the editor GUI unless you also add `“defaultFontSizes”: false` under settings>typography in theme.json.
