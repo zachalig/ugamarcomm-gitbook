@@ -25,11 +25,16 @@ These are the testing URLs that you'll need to point sites' and services' SSO au
 ### Pantheon Dashboard
 
 * Contact Pantheon and send them the Stage Metadata URL
-* WordPress Websites
-  * Submit an SSO integration ticket to EITS through uga.teamdynamix.
-  * They will send a testable link using the stage metadata
-* TinyURL
-  * dev.t.uga.edu already uses the sso.stage.uga.edu URL which links to the Stage Metadata so test it on there and if it works then great.
+
+### WordPress Websites
+
+* Submit an SSO integration ticket to EITS through uga.teamdynamix.com
+* They will send a testable link using the stage metadata
+
+### TinyURL
+
+* --dev.t.uga.edu already uses the sso.stage.uga.edu URL which links to the Stage Metadata so test it on there and if it works then great.--
+* t.uga.edu is now routed and managed through Bit.ly. SSO and everything else for it is no longer under webdev's care as of 2025.
 
 ## What do I do if there's an error?
 
