@@ -24,9 +24,13 @@ These are the testing URLs that you'll need to point sites' and services' SSO au
 
 ### Pantheon Dashboard
 
-* Contact Pantheon and send them the Stage Metadata URL
+* Contact Pantheon support and send them the Stage Metadata URL for SAML SSO (above).
 
 ### WordPress Websites
+
+==NOTE: This section is out of date as of February 2025.==
+
+_TODO: Update with simplified process_
 
 * Submit an SSO integration ticket to EITS through uga.teamdynamix.com
 * They will send a testable link using the stage metadata
@@ -38,6 +42,6 @@ These are the testing URLs that you'll need to point sites' and services' SSO au
 
 ## What do I do if there's an error?
 
-[Report the error to EITS by creating a ticket](https://uga.teamdynamix.com/TDClient/3190/eitsclientportal/Requests/TicketRequests/NewForm?ID=oXtGkWjLp04_\&RequestorType=Service) with as much detail as possible. They are responsible for correcting any problems that come up during testing.&#x20;
+[Report the error to EITS by creating a ticket](https://uga.teamdynamix.com/TDClient/3190/eitsclientportal/Requests/TicketRequests/NewForm?ID=oXtGkWjLp04_\&RequestorType=Service) with as much detail as possible. They are responsible for correcting any problems that come up during testing. Once corrected, re-test as directed by EITS.
 
-\
+
