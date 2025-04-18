@@ -2,6 +2,7 @@
 description: >-
   The little things we've learned along the way that don't need a whole page,
   but have made all the difference.
+icon: wordpress
 ---
 
 # WordPress Tips & Tricks

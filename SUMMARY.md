@@ -14,3 +14,4 @@
 * [Timeline of Annual Recurring Projects](guides-and-standards/annual-recurring-projects.md)
 * [Image Format Recommendations for WordPress Content](guides-and-standards/image-formatting-standards.md)
 * [WordPress Tips & Tricks](guides-and-standards/wordpress-tips-and-tricks.md)
+* [Tip: Font Files from the Creative Team](guides-and-standards/tip-font-files-from-the-creative-team.md)

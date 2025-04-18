@@ -1,4 +1,8 @@
-# Annual Recurring Projects
+---
+icon: timeline-arrow
+---
+
+# Timeline of Annual Recurring Projects
 
 These are projects that we handle every year with few exceptions.
 

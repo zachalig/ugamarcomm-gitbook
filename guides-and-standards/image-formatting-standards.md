@@ -1,5 +1,6 @@
 ---
 description: Image formatting recommendations for WordPress and other web site content
+icon: image-landscape
 ---
 
 # Image Format Recommendations for WordPress Content

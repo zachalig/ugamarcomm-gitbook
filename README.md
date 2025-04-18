@@ -3,6 +3,7 @@ description: >-
   A place to store general knowledge and best practices for the web development
   team at the University of Georgia's Integrated Marketing and Communications
   (MARCOMM) office (https://mc.uga.edu).
+icon: house-chimney-heart
 ---
 
 # UGA MARCOMM Webdev Team Knowledgebase Home
@@ -13,14 +14,14 @@ description: >-
 
 * [accessibility-a11y-quality-assurance-process.md](processes/accessibility-a11y-quality-assurance-process.md "mention")
 * [uga-single-sign-on-sso-wordpress-integration.md](processes/uga-single-sign-on-sso-wordpress-integration.md "mention")
-* [Updating SSO for UGA Websites and Services](processes/updating-sso-for-uga-websites-and-services.md "mention")
+* [updating-sso-for-uga-websites-and-services.md](processes/updating-sso-for-uga-websites-and-services.md "mention")
 * [wp-transactional-email-pantheon.md](guides-and-standards/wp-transactional-email-pantheon.md "mention")
 
 ### Guides and Standards
 
 * [annual-recurring-projects.md](guides-and-standards/annual-recurring-projects.md "mention")
 * [image-formatting-standards.md](guides-and-standards/image-formatting-standards.md "mention")
-* [WordPress Tips & Tricks](guides-and-standards/wordpress-tips-and-tricks.md "mention")
+* [wordpress-tips-and-tricks.md](guides-and-standards/wordpress-tips-and-tricks.md "mention")
 
 ## Our Sites
 

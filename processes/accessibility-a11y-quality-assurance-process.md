@@ -1,5 +1,6 @@
 ---
 description: A practical guide to web page basic accessibility review and improvement.
+icon: wheelchair-move
 ---
 
 # Accessibility (A11y) Quality Assurance Process

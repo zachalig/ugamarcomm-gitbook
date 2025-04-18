@@ -1,5 +1,8 @@
 ---
-description: How to set up transactional (system) emails on WordPress sites when hosted on Pantheon
+description: >-
+  How to set up transactional (system) emails on WordPress sites when hosted on
+  Pantheon
+icon: inbox-out
 ---
 
 # WordPress Transactional Email Setup on Pantheon Hosting
@@ -18,8 +21,8 @@ If you've never done this before, take a minute and at least skim Pantheon's doc
 
 MARCOMM has an account on [SendGrid](https://app.sendgrid.com), a top transactional email service. Head over to [sendgrid.com](https://www.sendgrid.com) and log in.
 
--  The login information for SendGrid is stored in our LastPass shared vault. If you don't already have access to LastPass, contact your supervisor.
-- As of January 2025, SendGrid also requires a 2FA TOTP (ramdomly generated time code PIN). If you do not have a configured authenticator, contact the department's head of IT.
-- This account was created and is administrated by MARCOMM's IT team (mcit@uga.edu)
+* The login information for SendGrid is stored in our LastPass shared vault. If you don't already have access to LastPass, contact your supervisor.
+* As of January 2025, SendGrid also requires a 2FA TOTP (ramdomly generated time code PIN). If you do not have a configured authenticator, contact the department's head of IT.
+* This account was created and is administrated by MARCOMM's IT team (mcit@uga.edu)
 
-Once logged in, create an API key by following these steps: 
+Once logged in, create an API key by following these steps:

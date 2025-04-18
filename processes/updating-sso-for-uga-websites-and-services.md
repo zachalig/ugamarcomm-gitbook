@@ -1,3 +1,7 @@
+---
+icon: shop-lock
+---
+
 # Updating SSO for UGA Websites and Services
 
 MARCOMM oversees a number of sites and services that utilize UGA's Single Sign-On (SSO) Service. Whenever EITS performs an upgrade to the SSO service, we have to test the following to make sure there aren't any breaking changes.
@@ -28,7 +32,7 @@ These are the testing URLs that you'll need to point sites' and services' SSO au
 
 ### WordPress Websites
 
-==NOTE: This section is out of date as of February 2025.==
+\==NOTE: This section is out of date as of February 2025.==
 
 _TODO: Update with simplified process_
 
@@ -37,11 +41,9 @@ _TODO: Update with simplified process_
 
 ### TinyURL
 
-* --dev.t.uga.edu already uses the sso.stage.uga.edu URL which links to the Stage Metadata so test it on there and if it works then great.--
+* \--dev.t.uga.edu already uses the sso.stage.uga.edu URL which links to the Stage Metadata so test it on there and if it works then great.--
 * t.uga.edu is now routed and managed through Bit.ly. SSO and everything else for it is no longer under webdev's care as of 2025.
 
 ## What do I do if there's an error?
 
 [Report the error to EITS by creating a ticket](https://uga.teamdynamix.com/TDClient/3190/eitsclientportal/Requests/TicketRequests/NewForm?ID=oXtGkWjLp04_\&RequestorType=Service) with as much detail as possible. They are responsible for correcting any problems that come up during testing. Once corrected, re-test as directed by EITS.
-
-

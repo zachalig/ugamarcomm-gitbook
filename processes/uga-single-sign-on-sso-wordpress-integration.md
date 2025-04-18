@@ -1,3 +1,7 @@
+---
+icon: shop-lock
+---
+
 # UGA Single Sign-on (SSO) WordPress Integration
 
 _Note:_ This guide is an incomplete work in progress based on rough notes during the integration of [Game Changers](https://gamechangers.uga.edu).
