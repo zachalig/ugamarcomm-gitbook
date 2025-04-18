@@ -22,6 +22,7 @@ icon: house-chimney-heart
 * [annual-recurring-projects.md](guides-and-standards/annual-recurring-projects.md "mention")
 * [image-formatting-standards.md](guides-and-standards/image-formatting-standards.md "mention")
 * [wordpress-tips-and-tricks.md](guides-and-standards/wordpress-tips-and-tricks.md "mention")
+* [tip-font-files-from-the-creative-team.md](guides-and-standards/tip-font-files-from-the-creative-team.md "mention")
 
 ## Our Sites
 
